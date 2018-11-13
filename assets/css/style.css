@@ -8,11 +8,13 @@
 	height: 100px;
 	/*background-color: #B2D6FF; *//*BLUE*/
 	background-image: url(../images/image1.1.jpeg);
+	text-align: center;
+    color: white;
 }
 
 .sidebar{
     height: 100px;
-	background-color: rgba(22, 29, 50, 0.96); 
+	background-color: rgba(200, 213, 233, 0.46); 
 	width: 150px;
 	float: left;
 	color: white;
@@ -38,7 +40,7 @@
 
 .footer{
 	/*height: 200px;*/
-	background-color: #0d1b30; /*LIGHT BLUE*/
+	background-color: rgba(70, 112, 175, 0.38) /*LIGHT BLUE*/
 	clear: both;
 	/*border: 5px solid red;*/
 }
@@ -81,6 +83,7 @@ p{
 	margin: 25px;
 	border-radius: 40px;
 	background-color: #D6E9FE
+	
 }
 
 .username{
